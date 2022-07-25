@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MoazAMoshtha
+- 👋 Hi, I’m Moaz A.Moshtha
 - 👀 I’m interested in web develpment
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning typescript
 - 📫 How to reach me , iam here
 
 <!---
