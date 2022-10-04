@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moaz A.Moshtha
 - 👀 I’m interested in web develpment
 - 🌱 I’m currently learning typescript
-- 📫 How to reach me , iam here
+- 📫 How to reach me , I’m here
 
 <!---
 MoazAMoshtha/MoazAMoshtha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
