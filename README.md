@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moaz A.Moshtha
-- 👀 I’m interested in web develpment
-- 🌱 I’m currently learning typescript
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Prompt engineering
 - 📫 How to reach me , I’m here
 
 <!---
